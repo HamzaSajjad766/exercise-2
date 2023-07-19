@@ -1,0 +1,10 @@
+"use strict";
+let firstname = "HAMZA ";
+let lastname = "SAJJAD ALI";
+console.log(firstname + lastname);
+let massage = "it is my first assignment after first calss basics";
+console.log(massage);
+let day = 19;
+let month = " july ";
+let year = 2023;
+console.log(day + month + year);
